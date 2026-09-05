@@ -5,13 +5,7 @@
 ### End-to-End Machine Learning Engineering Project
 
 *A complete production-ready machine learning system for predicting NYC taxi trip duration using statistical analysis, feature engineering, model explainability, FastAPI, and Docker.*
-<p align="center">
-  <img
-    src="assets/NYC Yellow Taxi Trip Duration Prediction.png"
-    alt="NYC Yellow Taxi Trip Duration Prediction"
-    width="100%"
-  />
-</p>
+
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
